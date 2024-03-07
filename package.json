@@ -1,0 +1,24 @@
+{
+  "name": "greg-simple-react",
+  "version": "1.0.0",
+  "description": "Simple react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gregthomson0550/simple-react.git"
+  },
+  "dependencies": {
+    "crypto-list-greg": "1.1.0",
+    "minti_fulkerson": "1.0.0",
+    "easy-utils-greg": "2.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregthomson0550/simple-react/issues"
+  },
+  "homepage": "https://github.com/gregthomson0550/simple-react#readme"
+}
